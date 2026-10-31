@@ -1,0 +1,13 @@
+{
+  "name": "ToolPix – Free Online Image & PDF Tools",
+  "short_name": "ToolPix",
+  "description": "Free online image and PDF tools that run in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5fb",
+  "theme_color": "#5b4bff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
